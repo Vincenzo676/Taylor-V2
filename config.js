@@ -40,7 +40,7 @@ async function loadConfig() {
         debug: "blue",
         error: "brightRed"
       }), global.owner = [
-        ["6282195322106", "️𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 - 𝑶𝒘𝒏𝒆𝒓", !0]
+        ["6282195322106", "️Vince - 𝑶𝒘𝒏𝒆𝒓", !0]
       ],
       global.mods = ["6282195322106"], global.prems = ["6282195322106"], global.APIs = {
         amel: "https://melcanz.com",
@@ -70,10 +70,10 @@ async function loadConfig() {
         "https://api.botcahx.biz.id": "Admin"
       }, global.lolkey = pickRandom(["043c5de3b7cd6b1b8f2a0f90", "e1a815979e6adfc071b7eafc", "ed78c137a46873c5b8e5fe3b", "IchanZX", "GataDios", "elainaai"]),
       global.xyro = "yqiBQF86F4", global.nomorbot = "6281779570422", global.nomorown = "6282195322106",
-      global.namebot = " ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ ", global.nameown = "「 𝑾𝒖𝒅𝒚𝒔𝒐𝒇𝒕 」",
+      global.namebot = " Vincenzo あ⁩ ", global.nameown = "「 Vince 」",
       global.pmenus = pickRandom(["乂", "◈", "➭", "ଓ", "⟆•", "⳻", "•", "↬", "◈", "⭑", "ᯬ", "◉", "᭻", "»", "〆", "々", "⛥", "✗", "⚜", "⚚", "♪"]),
       global.htjava = pickRandom(["乂", "⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"]),
-      global.wm = "                「 ᴛᴀyʟᴏʀ-ʙᴏᴛ あ⁩ 」", global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷",
+      global.wm = "                「 Vincenzo あ⁩ 」", global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷",
       global.wm3 = htjava + " ᴛᴀyʟᴏʀ-ʙᴏᴛ", global.giflogo = VideoGalau(), global.fla = pickRandom(ImgLogoFlam()),
       global.flaaa = ImgLogoFlam(), global.brandc = ImgLogoDynamic(), global.sig = "https://www.instagram.com/wudysoft",
       global.sgh = "https://www.github.com/AyGemuy", global.sgc = "https://s.id/Taylor-V2",
